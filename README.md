@@ -1,1 +1,2 @@
-# Neural-Language-Controler![img1](/Users/leo/Desktop/typroa_img/img1.png)
+# Neural-Language-Controler
+![img1](img/img1.png)
